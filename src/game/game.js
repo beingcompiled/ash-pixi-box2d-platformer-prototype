@@ -21,7 +21,7 @@ define([
     'game/systems/animationsystem',
     'game/systems/parallaxsystem',
     'game/systems/proximitysystem',
-    'game/systems/moverandomSystem',
+    'game/systems/moverandomsystem',
     'game/systems/predatorsystem',
 
     'game/systems/input/keyboardcontrolsystem',
