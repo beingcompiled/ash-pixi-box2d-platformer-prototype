@@ -97,6 +97,7 @@ define([
 
 
             PIXI DEPENDENCIES
+            TO DO: move pixi to rendersystem. rendering lib should be independent of ecs
 
 
             */
