@@ -69,7 +69,7 @@ define([
                 // floor
                 args = {
                     id: "floor", 
-                    position: new Point(0, h),
+                    position: new Point(0, h*1.3),
                     width: this.gameState.worldWidth, 
                     height: 400, 
                     bodyType: "static", 

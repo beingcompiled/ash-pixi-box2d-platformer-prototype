@@ -2,7 +2,7 @@ define(['utils/MathUtils', 'pixi'], function(MathUtils, PIXI) {
 
     "use strict";
 
-    function WallView(args, gameState) {
+    function WallView(args, gameState) {        
     
         var self = this;
         PIXI.DisplayObjectContainer.call(self);
