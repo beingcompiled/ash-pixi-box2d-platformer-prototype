@@ -1,4 +1,4 @@
-skeleton-platformer-ash-pixi-box2d
+prototype-platformer-ash-pixi-box2d
 ==================================
 
 * work in progress
